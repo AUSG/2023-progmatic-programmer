@@ -26,5 +26,6 @@
     <td align="center"><a href="https://github.com/gimquokka"><img src="https://avatars.githubusercontent.com/u/60743304?v=4" width="100px;" alt=""/><br /><sub><b>김진영</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/mokhs00"><img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/><br /><sub><b>김한수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ritty27"><img src="https://avatars.githubusercontent.com/u/32264819?v=4" width="100px;" alt=""/><br /><sub><b>박지수</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/inddoni"><img src="https://avatars.githubusercontent.com/u/46644241?v=4" width="100px;" alt=""/><br /><sub><b>최인정</b></sub></a><br /></td>   
   </tr>
 </table>
