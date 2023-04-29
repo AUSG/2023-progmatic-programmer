@@ -7,6 +7,10 @@
 - [1주차](https://github.com/AUSG/2023-progmatic-programmer/tree/main/01%EC%A3%BC%EC%B0%A8)
   - 1장 실용주의 철학
   - 2장 실용주의 접근법
+- [2주차](https://github.com/AUSG/2023-progmatic-programmer/tree/main/02%EC%A3%BC%EC%B0%A8)
+  - 3장 기본 도구
+  - 4장 실용주의 편집증
+  - 5장 구부러지거나 부러지거나
 
 ## 스터디 룰
 
